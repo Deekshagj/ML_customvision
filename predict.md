@@ -52,8 +52,8 @@ To create the endpoint value, remove everything after **azure.com**. Your endpoi
 Whenever you're writing code it's a best practice to never hard-code sensitive values, such as passwords, or any value which may change. This can lead to security breaches or code that's difficult to maintain. To create our application we're going to follow generally accepted best practices. To do this we'll use a library named [python_dotenv](https://github.com/theskumar/python-dotenv), which allows you to set environment variables with a text file.
 
 1. Return to Visual Studio Code
-1. In this project's root folder, create a new file named **.env**
-1. Add the following values, replacing the placeholders
+1. In this project's root folder, navigate to a new file named **.env**
+1. Add the following values, replacing the placeholders (There are some example values from the workshop, replace them with your new values) 
 
     ```bash
     ENDPOINT=<YOUR_ENDPOINT>
@@ -68,8 +68,8 @@ Whenever you're writing code it's a best practice to never hard-code sensitive v
 
 We'll be using two Python packages to support our project. The first we already introduced, **python-dotenv**. The next is the [Custom Vision client library (or SDK)](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python&WT.mc_id=academic-49102-chrhar), which you'll use to  make the predictions.
 
-1. Create a new file named **requirements.txt**
-1. Inside **requirements.txt**, add the following:
+1. Navigate to a new file named **requirements.txt**
+1. Inside **requirements.txt**, make sure this is present:
 
     ```bash
     python-dotenv
