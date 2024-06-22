@@ -10,7 +10,7 @@ Visual Studio Code is an open source code editor which can be used to create nea
 
 A starter project has been provided which includes the images for the workshop and the solution code. To obtain the project:
 
-1. Navigate to [https://github.com/Deekshagj/ML_customvision.git](https://github.com/Deekshagj/ML_customvision.git))
+1. Navigate to [https://github.com/Deekshagj/ML_customvision.git](https://github.com/Deekshagj/ML_customvision.git)
 1. Copy this url
    
 1. Open a terminal or command window and execute the following, replacing \<URL\> with the URL you copied in the prior step
