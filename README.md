@@ -49,8 +49,5 @@ The instructions for this workshop assume you are using [Visual Studio Code](htt
 - [Part 1: Train your model](./train.md)
 - [Part 2: Test your model](./predict.md)
 
-## Feedback
-
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Code of Conduct](../../CODE_OF_CONDUCT.md)
