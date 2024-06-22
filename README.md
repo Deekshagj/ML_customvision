@@ -50,4 +50,3 @@ The instructions for this workshop assume you are using [Visual Studio Code](htt
 - [Part 2: Test your model](./predict.md)
 
 
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
