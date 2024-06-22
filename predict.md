@@ -100,7 +100,8 @@ We'll be using two Python packages to support our project. The first we already 
 
 With the setup work done, it's time to add your code! We'll break this down into a few sections.
 
-1. Create a new file named **predict.py**
+1. Open the file named **predict.py**
+2. The next few steps are already done, just ensure all the code is present in the file
 
 ### Import the libraries
 
